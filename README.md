@@ -6,7 +6,7 @@ Our REST Services are based on your QR Invoice Java Library, the are available a
 
 ## Links
 
-Offical Product Website: https://www.qr-invoice.ch
+Official Product Website: https://www.qr-invoice.ch
 
 Demo Application http://demo.qr-invoice.ch
 
