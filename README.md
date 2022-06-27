@@ -1,6 +1,6 @@
 # QR Invoice REST Services
 
-The QR Invoice REST Services ease the creation and processing of Swiss QR Invoices / Bills.
+The QR Invoice REST Services ease the creation, scanning and processing of Swiss QR Invoices / Bills.
 
 Our REST Services are based on your QR Invoice Java Library, the are available as a standalone java application and as cloud services.
 
@@ -8,7 +8,9 @@ Our REST Services are based on your QR Invoice Java Library, the are available a
 
 Official Product Website: https://www.qr-invoice.ch
 
-Demo Application http://demo.qr-invoice.ch
+Demo Application: https://demo.qr-invoice.cloud
+
+Free to use Web Application: https://app.qr-invoice.cloud/
 
 ## Relevant Search Terms
 
